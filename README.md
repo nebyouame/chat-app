@@ -1,0 +1,2 @@
+# chat-app
+provides a platform where users can connect with other users through conversation. it will allow users to message with another user and also provides multimedia file transmission Users of you chat app are going to love the ability to share various types of multimedia, such as pictures, videos. and also give a quick search which makes it easy for users of your chat app to search and track conversations that have taken place long ago.
